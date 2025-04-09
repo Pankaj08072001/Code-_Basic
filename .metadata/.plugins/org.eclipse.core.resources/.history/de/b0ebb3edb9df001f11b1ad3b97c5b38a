@@ -1,0 +1,27 @@
+package TableCreationOracle;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.Statement;
+
+public class TableCreation {
+	
+		private static final String driverClassName ="oracle.jdbc.driver.OracleDriver";
+		private static final String url ="jdbc:Oracle:thin:@localhost:1521:orcl";
+		private static final String userName ="c##pankaj";
+		private static final String password ="857085";
+		private static final String CREATE ="CREATE TABLE BATCH11AM(ID INT , NAME VARCHAR2(50),COURSE VARCHAR2 (50)";
+		public static void main(String[] args) throws Exception{	
+		Class.forName(driverClassName);
+			Connection con = DriverManager.getConnection(url, userName, password);
+		
+			Statement stm = con.createStatement();
+			
+			int k = stm.executeUpdate(CREATE);
+			System.out.println("Table Created ");
+		
+		
+		
+	}
+
+}

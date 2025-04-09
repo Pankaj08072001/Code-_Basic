@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;DifferKeyword.ThrowAndThrows&apos; to &apos;Throwuse&apos;&#x0D;&#x0A;- Original project: &apos;19_ExceptionHAndling&apos;&#x0D;&#x0A;- Original element: &apos;DifferKeyword.ThrowAndThrows&apos;&#x0D;&#x0A;- Renamed element: &apos;DifferKeyword.Throwuse&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ThrowAndThrows&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;DifferKeyword{ThrowAndThrows.java[ThrowAndThrows" matchStrategy="1" name="Throwuse" qualified="false" references="true" similarDeclarations="false" stamp="1732473962254" textual="false" version="1.0"/>
+</session>

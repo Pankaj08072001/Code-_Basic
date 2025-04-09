@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Thred.TwoWaysCreateThread&apos; to &apos;ByusingRunnableI&apos;&#x0D;&#x0A;- Original project: &apos;20_Multithreading&apos;&#x0D;&#x0A;- Original element: &apos;Thred.TwoWaysCreateThread&apos;&#x0D;&#x0A;- Renamed element: &apos;Thred.ByusingRunnableI&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;TwoWaysCreateThread&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;Thred{TwoWaysCreateThread.java[TwoWaysCreateThread" matchStrategy="1" name="ByusingRunnableI" qualified="false" references="true" similarDeclarations="false" stamp="1732478028959" textual="false" version="1.0"/>
+</session>

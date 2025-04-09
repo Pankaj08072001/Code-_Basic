@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;AbstractClass.Animal.java&apos; to &apos;AnimalL.java&apos;&#x0D;&#x0A;- Original project: &apos;13-Abstraction&apos;&#x0D;&#x0A;- Original element: &apos;AbstractClass.Animal.java&apos;&#x0D;&#x0A;- Renamed element: &apos;AbstractClass.AnimalL.java&apos;" description="Rename compilation unit &apos;Animal.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;AbstractClass{Animal.java" name="AnimalL.java" references="false" stamp="1729247663494" version="1.0"/>
+</session>

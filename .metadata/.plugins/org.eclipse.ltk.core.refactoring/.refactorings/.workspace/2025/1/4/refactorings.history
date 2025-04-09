@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;25_JDBCCON&apos;" deleteContents="false" description="Delete resource &apos;25_JDBCCON&apos;" element1="/25_JDBCCON" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1737387168540"/>&#x0A;<refactoring comment="Delete resource &apos;26_JdbcWithmySql&apos;" deleteContents="false" description="Delete resource &apos;26_JdbcWithmySql&apos;" element1="/26_JdbcWithmySql" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1737387175058"/>
+</session>

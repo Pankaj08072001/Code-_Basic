@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Java8Feature.Predicate&apos; to &apos;PredicateDemo&apos;&#x0D;&#x0A;- Original project: &apos;25_NewFeature&apos;&#x0D;&#x0A;- Original element: &apos;Java8Feature.Predicate&apos;&#x0D;&#x0A;- Renamed element: &apos;Java8Feature.PredicateDemo&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Predicate&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;Java8Feature{Predicate.java[Predicate" matchStrategy="1" name="PredicateDemo" qualified="false" references="true" similarDeclarations="false" stamp="1738311228570" textual="false" version="1.0"/>
+</session>
