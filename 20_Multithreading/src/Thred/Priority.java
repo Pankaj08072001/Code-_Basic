@@ -7,6 +7,10 @@ package Thred;
 public class Priority {
 	public static void main(String arg[]) {
 		A a1 = new A();
+		System.out.println(Thread.MAX_PRIORITY);
+		System.out.println(Thread.MAX_PRIORITY);
+		System.out.println(Thread.MAX_PRIORITY);
+
 		Thread1 t1 = new Thread1(a1);
 		Thread2 t2 = new Thread2(a1);
 		t1.start();
